@@ -71,7 +71,8 @@ you have to pay for more.
 [click here](https://reviewscrapper-humble-puku-cm.cfapps.io/) to open app on pivotal.
  
 
-<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="Pycharm" width="200"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" alt="Pycharm" width="200"/>
+<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="Pycharm" width="200"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" alt="Flask" width="200"/>       <img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" alt="heroku" width="200"/>  <img src="https://run.pivotal.io/images/pws-header-logo_new.png" alt="heroku" width="300"/> 
+
 
 
 
