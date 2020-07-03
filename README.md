@@ -71,7 +71,7 @@ you have to pay for more.
 [click here](https://reviewscrapper-humble-puku-cm.cfapps.io/) to open app on pivotal.
  
 
-![Pycharm](https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png)
+![Pycharm](https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png =100x20)
 
 
 
