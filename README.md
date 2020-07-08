@@ -1,6 +1,6 @@
 # Review Scrapper
 
-[!Installation](#installation)
+[1. Installation](#installation)
 1. Installation
 1. Web Development
 1. Programming
