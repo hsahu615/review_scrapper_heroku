@@ -1,7 +1,7 @@
 # Review Scrapper
 
 [1. Installation](#installation)
-[2. Web Development](#web development)
+[2. Web Development](#Web Development)
 [3. Programming](#programming)
 [4. Deployment](#deployment)
 
