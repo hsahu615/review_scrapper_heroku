@@ -2,7 +2,7 @@
 
 [1. Installation](#installation)
 
-[2. web development](#WebDevelopment)
+[2. Web Development](#WebDevelopment)
 
 [3. Programming](#programming)
 
