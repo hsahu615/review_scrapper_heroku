@@ -2,7 +2,7 @@
 
 [1. Installation](#installation)
 
-[2. web development](#web development)
+[2. web development](#WebDevelopment)
 
 [3. Programming](#programming)
 
@@ -45,7 +45,7 @@ import requests
 from bs4 import BeautifulSoup as bs
 from urllib.request import urlopen as uReq
 ```
-## Web Development
+## WebDevelopment
 
 Flask API is used here for web development or as a web framework. You can
 also use Django here but I prefer Flask for small projects. For beautification
