@@ -1,10 +1,9 @@
 # Review Scrapper
 
 [1. Installation](#installation)
-1. Installation
-1. Web Development
-1. Programming
-1. Deployment
+[2. Web Development](#web development)
+[3. Programming](#programming)
+[4. Deployment](#deployment)
 
 >About
 
@@ -16,7 +15,7 @@
 
 ---
  
-# Installation
+## Installation
 
 <p>I used PyCharm IDE in this project. You can use any IDE like Jupyter Notebook,
 VSCode or Spyder, it doesn't matter.</p>
@@ -42,7 +41,7 @@ import requests
 from bs4 import BeautifulSoup as bs
 from urllib.request import urlopen as uReq
 ```
->Web Development
+## Web Development
 
 Flask API is used here for web development or as a web framework. You can
 also use Django here but I prefer Flask for small projects. For beautification
@@ -50,13 +49,13 @@ of web page CSS has been used named as main.css and style.css present in
 static/css. HTML files are present in templates named as base.html, index.html 
 and results.html .
 
->Programming
+## Programming
 
 Requested data from flipkart url using 'uReq'. Used BeautifulSoup to make data readable.
 To find <div> command of review section I used browser's Element Inspection tool.
 By Iterating through the data I extracted some reviews and gave this back to html page as output.
 
->Deployment
+## Deployment
 
 I deployed my app on two platforms one is heroku and other one is Pivotal web services
 They provide free deployment services with some restrictions to unlock all features
