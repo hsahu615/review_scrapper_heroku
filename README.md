@@ -1,6 +1,6 @@
 # Review Scrapper
 
-1. About
+[!Installation](#installation)
 1. Installation
 1. Web Development
 1. Programming
@@ -16,7 +16,7 @@
 
 ---
  
-> Installation
+# Installation
 
 <p>I used PyCharm IDE in this project. You can use any IDE like Jupyter Notebook,
 VSCode or Spyder, it doesn't matter.</p>
